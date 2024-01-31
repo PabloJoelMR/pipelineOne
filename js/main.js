@@ -1,4 +1,4 @@
-export function main(event) {
+export default function main(event) {
     return "Hello World!";
 }
 
