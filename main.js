@@ -4,4 +4,6 @@ function main(event) {
 
 console.log(main(null));
 
+module.exports = main;
+
 
